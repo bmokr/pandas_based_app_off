@@ -7,7 +7,7 @@ ctk.set_default_color_theme("dark-blue")
 root = ctk.CTk()
 root.geometry("1020x780")
 root.title("API RIOT")
-root.iconbitmap("icon.ico")
+root.iconbitmap("gui/icon.ico")
 
 title_label = ctk.CTkLabel(root, text="API RIOT", font=("Roboto", 24))
 title_label.pack(pady=12)
