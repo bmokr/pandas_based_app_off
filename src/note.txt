@@ -1,0 +1,2 @@
+https://developer.riotgames.com/docs/lol
+39 line of ctk_scrollable_frame.py changed to => orientation: Literal["vertical", "horizontal"] = "horizontal"):
